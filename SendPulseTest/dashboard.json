@@ -1,0 +1,84 @@
+{
+  "dashboard": [
+  {
+    "social": "facebook",
+    "logo": "img/Facebook-color.svg",
+    "quantity": "1,701",
+    "people": "FOLLOWERS",
+    "rating": "+4",
+    "avatar": "img/avatar1.jpg",
+    "link": "@abhisek.daas",
+    "background": "img/facebook-item.jpg"
+  },
+  {
+    "social": "twitter",
+    "logo": "img/Twitter-color.svg",
+    "quantity": "1,567",
+    "people": "FOLLOWERS",
+    "rating": "-3",
+    "avatar": "img/avatar2.jpg",
+    "link": "@wholetthedasout",
+    "background": "img/twitter-item.jpg"
+  },
+  {
+    "social": "instagram",
+    "logo": "img/Instagram-color.svg",
+    "quantity": "1,139",
+    "people": "FOLLOWERS",
+    "rating": "+11",
+    "avatar": "img/avatar3.jpg",
+    "link": "@wholetthedasout",
+    "background": "img/instagram-item.jpg"
+  },
+  {
+    "social": "linkedin",
+    "logo": "img/Linkedin-color.svg",
+    "quantity": "2,106",
+    "people": "FOLLOWERS",
+    "rating": "+39",
+    "avatar": "img/avatar4.jpg",
+    "link": "@abhisekd3",
+    "background": "img/linkedin-item.jpg"
+  },
+  {
+    "social": "youtube",
+    "logo": "img/Youtube-color.svg",
+    "quantity": "3,190",
+    "people": "Subscribers",
+    "rating": "+22",
+    "avatar": "img/avatar5.jpg",
+    "link": "@TheAbhisekD",
+    "background": "img/youtube-item.jpg"
+  },
+  {
+    "social": "snapchat",
+    "logo": "img/Snapchat-color.svg",
+    "quantity": "8,754",
+    "people": "Snap Score",
+    "rating": "",
+    "avatar": "img/avatar6.jpg",
+    "link": "@abhisekd",
+    "background": "img/snapchat-item.jpg"
+  },
+  {
+    "social": "google+",
+    "logo": "img/GooglePlus-color.svg",
+    "quantity": "1,033",
+    "people": "FOLLOWERS",
+    "rating": "",
+    "avatar": "img/avatar7.jpg",
+    "link": "@+AbhisekDas",
+    "background": "img/google+-item.jpg"
+  },
+  {
+    "social": "vine",
+    "logo": "img/Vine-color.svg",
+    "quantity": "1,045",
+    "people": "Snap Score",
+    "rating": "",
+    "avatar": "img/avatar8.jpg",
+    "link": "@1316139228245221376",
+    "background": "img/vine-item.jpg"
+  }
+  ]
+}
